@@ -21,3 +21,24 @@ formato Multi-Sig dos participantes), para que seja possível executar operaçõ
 
 Caso tenha interesse em implantar contratos, entre em contato com as instituições participantes.
 
+## Histórico (nós em operação)
+
+### Experimentais
+
+- Nó experimental 1: tecnologia Neo Blockchain - PPG-CComp/UERJ - Prof. Igor Machado Coelho
+    * Prazo Operação: 13/10/2019 - (sem data de término)
+       * Observação: A rede é experimental e pode ser reiniciada sem aviso prévio
+    * Interface HTTP: http://redeneo1.ime.uerj.br:8000
+    * Interface P2P: redeneo1.ime.uerj.br [porta 30337]
+
+### Piloto
+
+- Nenhum nó
+
+### Produção
+
+- Nenhum nó
+
+## Licença
+
+Esse documento tem licença aberta, Creative Commons CC-BY-4.0
