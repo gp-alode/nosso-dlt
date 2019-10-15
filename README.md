@@ -21,6 +21,13 @@ formato Multi-Sig dos participantes), para que seja possível executar operaçõ
 
 Caso tenha interesse em implantar contratos, entre em contato com as instituições participantes.
 
+## Justificativa
+
+O projeto "Nosso DLT" surge a partir do interesse em prover infraestrutura blockchain de baixo custo para projetos de cunho
+acadêmico, como o dapp [SciChain](https://scichain.org), uma proposta premiada (em 2018) de dapp para publicação científica.
+
+Novamente, o consórcio é aberto para novas tecnologias e implantação de novos contratos.
+
 ## Histórico (nós em operação)
 
 ### Experimentais
